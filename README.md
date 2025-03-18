@@ -6,6 +6,7 @@ This project utilizes SQL, Excel, and Power BI to analyze ride data from the OLA
 SQL – Data extraction and transformation
 Excel – Data cleaning and basic analysis
 Power BI – Interactive dashboards and visualizations
+
 📌 Key Insights: Overall performance, total bookings, driver performance, customer preferences, and revenue trends.
 
 🔗 Feel free to explore the repository and contribute! 🚀
